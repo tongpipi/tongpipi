@@ -24,6 +24,7 @@
   <img alt="Zeromq" src="https://img.shields.io/badge/-Zeromq-45b8d8?style=flat-square&logo=zeromq&logoColor=white" />
   <img alt="Springboot" src="https://img.shields.io/badge/-springboot-0070f3?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Brpc" src="https://img.shields.io/badge/-Brpc-45b8d8?style=flat-square&logo=brpc&logoColor=white" />
+  <img alt="Tuxedo" src="https://img.shields.io/badge/-Tuxedo-7fd5ea?style=flat-square&logo=Tuxedo&logoColor=white" />
 </p>
 <h5>Design System</h5>
 <p>
