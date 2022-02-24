@@ -26,9 +26,16 @@
 </p>
 <h5>Design System</h5>
 <p>
-  <img alt="pom" src="https://img.shields.io/badge/-Pom-0081cb?style=flat-square&logo=Pom&logoColor=white" />
-  <img alt="oms" src="https://img.shields.io/badge/-Oms-757575?style=flat-square&logo=oms&logoColor=white" />
+  <img alt="softbank-pom" src="https://img.shields.io/badge/-softbankPom-0081cb?style=flat-square&logo=softbankPom&logoColor=white" />
+  <img alt="softbank-oms" src="https://img.shields.io/badge/-softbank-oms-757575?style=flat-square&logo=softbank-oms&logoColor=white" />
   <img alt="吕梁农信核心系统" src="https://img.shields.io/badge/-吕梁农信核心系统-757575?style=flat-square&logo=吕梁农信核心系统&logoColor=white" />
+  <img alt="张家口商业银行综合业务系统" src="https://img.shields.io/badge/-张家口商业银行综合业务系统-757575?style=flat-square&logo=张家口商业银行综合业务系统&logoColor=white" />
+  <img alt="山西省农信核心系统" src="https://img.shields.io/badge/-山西省农信核心系统-45b8d8?style=flat-square&logo=山西省农信核心系统&logoColor=white" />
+  <img alt="浙江民泰商行综合业务系统" src="https://img.shields.io/badge/-浙江民泰商行综合业务系统-0070f3?style=flat-square&logo=浙江民泰商行综合业务系统&logoColor=white" />
+  <img alt="大连银行核心系统" src="https://img.shields.io/badge/-大连银行核心系统-45b8d8?style=flat-square&logo=大连银行核心系统&logoColor=white" />
+  <img alt="大连银行ATMP" src="https://img.shields.io/badge/-大连银行ATMP-007ACC?style=flat-square&logo=大连银行ATMP&logoColor=white" />
+  <img alt="浦发银行后台借记卡系统升级" src="https://img.shields.io/badge/-浦发银行后台借记卡系统升级-4e2a8e?style=flat-square&logo=浦发银行后台借记卡系统升级&logoColor=white" />
+  <img alt="Prudential Investment, Loan, and Assurance Company" src="https://img.shields.io/badge/-Prudential-7fd5ea?style=flat-square&logo=Prudential&logoColor=white" />
 </p>
 
 <h5>Database</h5>
@@ -36,6 +43,7 @@
   <img alt="pg" src="https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="redis" src="https://img.shields.io/badge/-Redis-47a248?style=flat-square&logo=redis&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-Mysql-003B57?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Mariadb" src="https://img.shields.io/badge/-Mariadb-003B57?style=flat-square&logo=Mariadb&logoColor=white" />
 </p>
 <h5>Miscellaneous</h5>
 <p>
