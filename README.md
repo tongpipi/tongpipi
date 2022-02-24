@@ -38,6 +38,7 @@
   <img alt="大连银行ATMP" src="https://img.shields.io/badge/-大连银行ATMP-007ACC?style=flat-square&logo=大连银行ATMP&logoColor=white" />
   <img alt="浦发银行后台借记卡系统升级" src="https://img.shields.io/badge/-浦发银行后台借记卡系统升级-4e2a8e?style=flat-square&logo=浦发银行后台借记卡系统升级&logoColor=white" />
   <img alt="Prudential Investment, Loan, and Assurance Company" src="https://img.shields.io/badge/-Prudential-7fd5ea?style=flat-square&logo=Prudential&logoColor=white" />
+  <img alt="TecentIdip" src="https://img.shields.io/badge/-TecentIdip-1bb91f?style=flat-square&logo=TecentIdip&logoColor=white" />
 </p>
 
 <h5>Database</h5>
