@@ -44,6 +44,9 @@
   <img alt="redis" src="https://img.shields.io/badge/-Redis-47a248?style=flat-square&logo=redis&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-Mysql-003B57?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Mariadb" src="https://img.shields.io/badge/-Mariadb-003B57?style=flat-square&logo=Mariadb&logoColor=white" />
+  <img alt="Informix" src="https://img.shields.io/badge/-Informix-4e2a8e?style=flat-square&logo=Informix&logoColor=white" />
+  <img alt="Db2" src="https://img.shields.io/badge/-Db2-1bb91f?style=flat-square&logo=db2&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-c5d928?style=flat-square&logo=Oracle&logoColor=white" />
 </p>
 <h5>Miscellaneous</h5>
 <p>
