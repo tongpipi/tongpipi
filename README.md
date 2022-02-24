@@ -56,6 +56,7 @@
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Tmux" src="https://img.shields.io/badge/-Tmux-1bb91f?style=flat-square&logo=tmux&logoColor=white" />
+   <img alt="Docker" src="https://img.shields.io/badge/-Docker-4169e1?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="oh-my-zsh" src="https://img.shields.io/badge/-oh_my_zsh-c5d928?style=flat-square&logo=oh-my-zsh&logoColor=white" />
 </p>
 
