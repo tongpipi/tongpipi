@@ -27,9 +27,9 @@
 <h5>Design System</h5>
 <p>
   <img alt="softbank-pom" src="https://img.shields.io/badge/-softbankPom-0081cb?style=flat-square&logo=softbankPom&logoColor=white" />
-  <img alt="softbank-oms" src="https://img.shields.io/badge/-softbankoms-757575?style=flat-square&logo=softbankOms&logoColor=white" />
-  <img alt="吕梁农信核心系统" src="https://img.shields.io/badge/-吕梁农信核心系统-757575?style=flat-square&logo=吕梁农信核心系统&logoColor=white" />
-  <img alt="张家口商业银行综合业务系统" src="https://img.shields.io/badge/-张家口商业银行综合业务系统-757575?style=flat-square&logo=张家口商业银行综合业务系统&logoColor=white" />
+  <img alt="softbank-oms" src="https://img.shields.io/badge/-softbankOms-757575?style=flat-square&logo=softbankOms&logoColor=white" />
+  <img alt="吕梁农信核心系统" src="https://img.shields.io/badge/-吕梁农信核心系统-1bb91f?style=flat-square&logo=吕梁农信核心系统&logoColor=white" />
+  <img alt="张家口商业银行综合业务系统" src="https://img.shields.io/badge/-张家口商业银行综合业务系统-c5d928?style=flat-square&logo=张家口商业银行综合业务系统&logoColor=white" />
   <img alt="山西省农信核心系统" src="https://img.shields.io/badge/-山西省农信核心系统-45b8d8?style=flat-square&logo=山西省农信核心系统&logoColor=white" />
   <img alt="浙江民泰商行综合业务系统" src="https://img.shields.io/badge/-浙江民泰商行综合业务系统-0070f3?style=flat-square&logo=浙江民泰商行综合业务系统&logoColor=white" />
   <img alt="大连银行核心系统" src="https://img.shields.io/badge/-大连银行核心系统-45b8d8?style=flat-square&logo=大连银行核心系统&logoColor=white" />
