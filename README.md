@@ -6,7 +6,7 @@
 
 ### Fields
 
-> Metaverse = Blockchain + Rust + C
+> Metaverse = Blockchain + Rust + C + Fintech
 
 ### Some Tools I Use
 
@@ -16,6 +16,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-4e2a8e?style=flat-square&logo=C++&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-7fd5ea?style=flat-square&logo=C&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-java-3776AB?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 <h5>Library & Framework</h5>
