@@ -28,6 +28,7 @@
 <p>
   <img alt="pom" src="https://img.shields.io/badge/-Pom-0081cb?style=flat-square&logo=Pom&logoColor=white" />
   <img alt="oms" src="https://img.shields.io/badge/-Oms-757575?style=flat-square&logo=oms&logoColor=white" />
+  <img alt="吕梁农信核心系统" src="https://img.shields.io/badge/-吕梁农信核心系统-757575?style=flat-square&logo=吕梁农信核心系统&logoColor=white" />
 </p>
 
 <h5>Database</h5>
