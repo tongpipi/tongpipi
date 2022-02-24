@@ -81,3 +81,4 @@
 
 ### My DID
 DAS: [fei.tong](https://fei.tong/)
+wechat: www_github_com
